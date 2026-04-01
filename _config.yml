@@ -14,12 +14,12 @@ timezone: America/Edmonton
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Andrew Filewich # the main title
+title: Andrew Filewich
 
-tagline: Kinesiology, Thesis Education, Rehabilitation, Exercise, Performance # it will display as the subtitle
+tagline: Kinesiology education, multimedia instruction, and experiential learning
 
-description: Kinesiology, Education, Rehabilitation, Exercise, Performance # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+description: >-
+  Honours thesis portfolio exploring the use of pre-laboratory instructional videos in undergraduate kinesiology laboratory education.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
