@@ -5,8 +5,6 @@ order: 4
 title: Findings
 ---
 
-# Findings
-
 ## Overview
 
 This project found that students who responded to the survey generally viewed the pre-laboratory videos positively, especially in relation to preparation, procedural clarity, confidence, and skill performance.
