@@ -5,8 +5,6 @@ order: 3
 title: Methods
 ---
 
-# Methods
-
 ## Study Design
 
 This project used an exploratory mixed-methods design. Quantitative data came from descriptive survey items and video viewership analytics, while qualitative data came from open-ended survey responses.
