@@ -5,8 +5,6 @@ order: 5
 title: Implications
 ---
 
-# Implications
-
 ## What This Project Suggests
 
 This project suggests that short pre-laboratory videos may be a useful support tool in undergraduate kinesiology laboratory courses, especially for helping students prepare before class, understand procedures more clearly, and feel more confident entering the lab.
