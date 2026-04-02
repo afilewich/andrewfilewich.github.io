@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-# About Me
-
 Hi, I’m Andrew Filewich, a kinesiology student at the University of Calgary with a strong interest in exercise physiology, rehabilitation, and kinesiology education.
 
 This website serves as my public academic portfolio and is centered on my honours thesis:
