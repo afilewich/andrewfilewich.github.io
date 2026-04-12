@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 8
+order: 9
 ---
 
 Hi, I’m Andrew Filewich, a kinesiology student at the University of Calgary with a strong interest in exercise physiology, rehabilitation, and kinesiology education.
