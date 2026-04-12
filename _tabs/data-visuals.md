@@ -59,6 +59,12 @@ The viewership data suggest that optional pre-laboratory video use declined over
 
 This supports one of the key interpretations of the project: the videos appeared useful to students who used them, but uptake across the class remained limited.
 
-## Next Technical Step
+## VO2 Analysis Notebook
 
-The next stage of this portfolio is to convert these results into programmatically generated charts and summary outputs using code so that changes in the underlying data automatically update the visuals.
+In addition to the thesis charts above, this embedded Kaggle notebook demonstrates a more complete technical workflow using code-based analysis in a sport and exercise context.
+
+[Open the notebook on Kaggle](https://www.kaggle.com/code/andrewfilewich/afilewich-knes381-vo2-analysis-ipynb)
+
+<div style="position: relative; width: 100%; height: 1000px; margin-top: 1rem;">
+  <iframe src="https://www.kaggle.com/embed/andrewfilewich/afilewich-knes381-vo2-analysis-ipynb?kernelSessionId=310882407" height="800" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="AFilewich_KNES381_VO2_Analysis.ipynb"></iframe>
+</div>
