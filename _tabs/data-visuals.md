@@ -65,6 +65,14 @@ In addition to the thesis charts above, this embedded Kaggle notebook demonstrat
 
 [Open the notebook on Kaggle](https://www.kaggle.com/code/andrewfilewich/afilewich-knes381-vo2-analysis-ipynb)
 
-<div style="position: relative; width: 100%; height: 1000px; margin-top: 1rem;">
-  <iframe src="https://www.kaggle.com/embed/andrewfilewich/afilewich-knes381-vo2-analysis-ipynb?kernelSessionId=310882407" height="800" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="AFilewich_KNES381_VO2_Analysis.ipynb"></iframe>
+<div style="position: relative; width: 100%; height: 1200px; margin-top: 1rem;">
+  <iframe
+    src="https://www.kaggle.com/embed/andrewfilewich/afilewich-knes381-vo2-analysis-ipynb?kernelSessionId=310882407"
+    width="100%"
+    height="100%"
+    style="border: 1px solid #ccc; border-radius: 8px;"
+    frameborder="0"
+    scrolling="auto"
+    title="AFilewich_KNES381_VO2_Analysis.ipynb">
+  </iframe>
 </div>
