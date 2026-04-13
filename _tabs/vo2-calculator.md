@@ -213,6 +213,7 @@ Values update automatically as you type. Time inputs use **minutes**, and decima
     width: 100%;
     border-collapse: collapse;
     margin-top: 0.75rem;
+    table-layout: fixed;
   }
 
   .vo2-table th,
@@ -221,10 +222,21 @@ Values update automatically as you type. Time inputs use **minutes**, and decima
     border-top: 1px solid rgba(127, 127, 127, 0.2);
     text-align: left;
     vertical-align: top;
+    overflow-wrap: anywhere;
+    word-break: break-word;
   }
 
   .vo2-table th {
-    width: 40%;
+    width: 36%;
+  }
+
+  .vo2-table td {
+    white-space: normal;
+  }
+
+  #interpretation {
+    white-space: normal;
+    overflow-wrap: anywhere;
   }
 
   .vo2-warning {
